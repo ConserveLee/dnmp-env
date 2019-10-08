@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+www/*
+!www/localhost/
+.php_cs.cache
